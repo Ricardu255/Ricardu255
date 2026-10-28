@@ -22,11 +22,11 @@
 
 ---
 
-### 📊 Contribution Graph
+### 📊 Contribution
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardu255&theme=tokyo-night&hide_border=true" width="900"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ricardu255&show_icons=true&theme=default&hide_border=true" width="480"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardu255&layout=compact&theme=default&hide_border=true" width="380"/>
 </p>
-
 ---
 
 ### 📬 Contact
@@ -34,7 +34,5 @@
 <a href="mailto:Ricardu255@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Ricardu255&label=Visitors&color=70a5d8&style=flat">
-</p>
+
 
