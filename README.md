@@ -20,11 +20,10 @@
 - AI Agent学习中
 ---
 
-
 ### 📊 Contribution
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ea043/github/Ricardu255" />
+<img src="https://github-readme-stats.vercel.app/api/activity-graph?username=Ricardu255&theme=default&hide_border=true" />
 </p>
 
 ### 📬 Contact
