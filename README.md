@@ -25,7 +25,7 @@
 ### 📊 Contribution
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ricardu255&show_icons=true&theme=default&hide_border=true" width="480"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardu255&layout=compact&theme=default&hide_border=true" width="380"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardu255&layout=compact&theme=default&hide_border=true&exclude=qml,c,cython,cpp" width="380"/>
 </p>
 ---
 
