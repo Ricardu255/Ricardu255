@@ -20,6 +20,15 @@
 - AI Agent学习中
 ---
 
+---
+
+### 📊 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardu255&theme=tokyo-night&hide_border=true" width="900"/>
+</p>
+
+---
+
 ### 📬 Contact
 <p>
 <a href="mailto:Ricardu255@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
