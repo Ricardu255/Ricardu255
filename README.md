@@ -20,12 +20,11 @@
 - AI Agent学习中
 ---
 
----
 
-### 📊 Activity
+### 📊 Contribution
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardu255&theme=default&hide_border=true" />
+  <img src="https://ghchart.rshah.org/2ea043/github/Ricardu255" />
 </p>
 
 ### 📬 Contact
