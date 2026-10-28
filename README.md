@@ -20,11 +20,6 @@
 - AI Agent学习中
 ---
 
-### 📊 Contribution
-
-<p align="center">
-<img src="https://github-contributions-api.jogruber.de/v4/Ricardu255?y=last" alt="contributions">
-</p>
 
 ### 📬 Contact
 <p>
