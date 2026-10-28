@@ -23,7 +23,7 @@
 ### 📊 Contribution
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/activity-graph?username=Ricardu255&theme=default&hide_border=true" />
+<img src="https://github-contributions-api.jogruber.de/v4/Ricardu255?y=last" alt="contributions">
 </p>
 
 ### 📬 Contact
