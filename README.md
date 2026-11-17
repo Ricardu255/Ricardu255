@@ -22,12 +22,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricardu255&theme=default" alt="summary">
+<img src="https://img.shields.io/github/followers/Ricardu255?color=%234285F4&label=Followers&style=flat-square" height="22">
+<img src="https://img.shields.io/github/stars/Ricardu255?color=%23FBBC05&label=Stars&style=flat-square" height="22">
+<img src="https://img.shields.io/github/commits-since/Ricardu255/Ricardu255/latest?color=%2334A853&label=Latest%20Commit&style=flat-square" height="22">
+<img src="https://img.shields.io/badge/Contributions-313-%23EA4335?style=flat-square" height="22">
 </p>
-<p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ricardu255&theme=default">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ricardu255&theme=default">
-</p>
+
 
 
 
