@@ -22,10 +22,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://img.shields.io/github/followers/Ricardu255?color=%234285F4&label=Followers&style=flat-square" height="22">
-<img src="https://img.shields.io/github/stars/Ricardu255?color=%23FBBC05&label=Stars&style=flat-square" height="22">
-<img src="https://img.shields.io/github/commits-since/Ricardu255/Ricardu255/latest?color=%2334A853&label=Latest%20Commit&style=flat-square" height="22">
-<img src="https://img.shields.io/badge/Contributions-313-%23EA4335?style=flat-square" height="22">
+<!-- 进度条样式（推荐，和你现在页面风格最搭） -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardu255&layout=compact&langs_count=6&hide_border=true" />
 </p>
 
 
