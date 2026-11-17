@@ -19,12 +19,11 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
-<!-- 进度条样式（推荐，和你现在页面风格最搭） -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardu255&layout=compact&langs_count=6&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardu255&layout=donut&langs_count=6&hide_border=true" />
 </p>
+
 
 
 
