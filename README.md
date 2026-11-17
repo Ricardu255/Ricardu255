@@ -21,8 +21,9 @@
 ---
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardu255&layout=donut&langs_count=6&hide_border=true" />
+<img src="https://github-stats.ubrong.com/api/top-langs/?username=Ricardu255&layout=compact&langs_count=6&hide_border=true" />
 </p>
+
 
 
 
