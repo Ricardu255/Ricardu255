@@ -21,10 +21,12 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardu255&layout=compact&langs_count=5&hide_border=true" alt="Top languages">
+  <img height="160" src="https://readme.lvtao.net/api/?username=Ricardu255&hide_border=true">
+  <img height="160" src="https://readme.lvtao.net/api/top-langs/?username=Ricardu255&layout=compact&langs_count=5&hide_border=true">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardu255&hide_border=true">
 </p>
+
 
 ## 📌 About Me
 
