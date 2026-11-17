@@ -22,10 +22,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://readme.lvtao.net/api/?username=Ricardu255&hide_border=true">
-  <img height="160" src="https://readme.lvtao.net/api/top-langs/?username=Ricardu255&layout=compact&langs_count=5&hide_border=true">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardu255&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricardu255&theme=default" alt="summary">
 </p>
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ricardu255&theme=default">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ricardu255&theme=default">
+</p>
+
 
 
 ## 📌 About Me
